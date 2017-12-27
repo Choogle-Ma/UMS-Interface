@@ -1,9 +1,9 @@
 # UMS Interface
-This program allows you to chose a block device or disk image as a 'disk',and communicate with PC through usb mass storage (just as usb disk do).Root permission is needed.
-
- * [download latest version](https://raw.githubusercontent.com/outofmemo/UMS-Interface/master/update/app-release.apk)
+This program allows you to chose a block device or disk image as a 'disk', and communicate with PC through usb mass storage (just as usb disk do). Root permission is needed.
 
 ![](https://raw.githubusercontent.com/outofmemo/UMS-Interface/master/screenshots/p1.png)
+
+* [download apk ](https://raw.githubusercontent.com/outofmemo/UMS-Interface/master/ums-interface.apk)
 
 ## introduction
 <h4 style="color:#0F0">quick start</h4>
